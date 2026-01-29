@@ -1,0 +1,8 @@
+com\example\quizapp\service\QuizService.class
+com\example\quizapp\repository\QuestionRepository.class
+com\example\quizapp\model\StudentResult.class
+com\example\quizapp\controller\QuizController.class
+com\example\quizapp\model\QuizSubmission.class
+com\example\quizapp\model\Question.class
+com\example\quizapp\repository\StudentResultRepository.class
+com\example\quizapp\QuizAppApplication.class
